@@ -1,0 +1,3 @@
+LAB_12_14.qrc|"C:\Users\tothi\source\repos\LAB_12_14\LAB_12_14\LAB_12_14.qrc" -o ".\GeneratedFiles\qrc_LAB_12_14.cpp" --name LAB_12_14
+LAB_12_14.h|"C:\Users\tothi\source\repos\LAB_12_14\LAB_12_14\LAB_12_14.h" -o ".\GeneratedFiles\Debug\moc_LAB_12_14.cpp" "-I.\GeneratedFiles" "-I." "-IC:\Qt\5.10.1\msvc2017_64\include" "-I.\GeneratedFiles\Debug" "-IC:\Qt\5.10.1\msvc2017_64\include\QtCore" "-IC:\Qt\5.10.1\msvc2017_64\include\QtGui" "-IC:\Qt\5.10.1\msvc2017_64\include\QtANGLE" "-IC:\Qt\5.10.1\msvc2017_64\include\QtWidgets" -DUNICODE -D_UNICODE -DWIN32 -DWIN64 -DQT_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
+LAB_12_14.ui|"C:\Users\tothi\source\repos\LAB_12_14\LAB_12_14\LAB_12_14.ui" -o ".\GeneratedFiles\ui_LAB_12_14.h"

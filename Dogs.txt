@@ -1,0 +1,6 @@
+Pug,Jane,5,https://img01-olxro.akamaized.net/img-olxro/197921025_1_261x203_mops-pug-oradea.jpg,5
+Bulldog,James,7,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ9VKW8SoCos3IvZulenZQJtbFVKDh1_5jWbfTDSfWnpyIDjSJwg,2
+Dobermann,Lucky,10,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWT_IEZ2205jP4IyKIRmxPaPAcaVPuQWm2r_2M-WHhrCxex9HZpw,8
+A222,Alex,10,www.google.com,10
+D211,Da2,2,www.fb.com,4
+P11,Da3,3,www.google.com,5
